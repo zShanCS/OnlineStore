@@ -1,0 +1,12 @@
+This application is capable of handling almost all operations that are required to be perfromed at cash counters in any local stores.
+
+This includes adding items to cart, searching for price and quantity of items and much more.
+(experimentally it can be used as "online shopping store" although it isnt capable of connecting to Internet yet)
+
+Administration of a store can also login to this app and see all data.
+Management staff can update prices of items, add new items, update quantity etc.
+
+Cashiers can add and remove items from the list of the items current customer wants to buy and then print reciepts.
+
+All shopping history is stored locally via file handling.
+Customers can see their old reciepts whenver they want if they have an online account.
