@@ -5,7 +5,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author Shani Malik
+ * @author zShanCS
  */
 public abstract class Payment implements Serializable {
     String Status;
