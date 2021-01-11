@@ -6,6 +6,7 @@ import java.io.Serializable;
 
 
 public class OnlineStore extends Store implements Serializable{
+ //serialziable so I can convert each object into s string form for saving on file
  static String webAddress="www.oop_mart_assignment1.com";
   static String  ID="ON1";
     public OnlineStore(){}
