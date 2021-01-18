@@ -2,7 +2,7 @@
 package assisgnment1;
 
 import java.util.Scanner;
-
+//handling with Cash
 public class Cash extends Payment{
      private Double Total;
      private Double Paid;
