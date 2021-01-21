@@ -2,7 +2,11 @@
 package assisgnment1;
 import java.io.Serializable;
 import java.util.HashMap;
-
+//saves all orders details including
+//order number
+//order details i.e cart info
+//time
+//shipping address etc
 public class Order implements Serializable{
     public static Integer serial=0;
     protected Integer orderID;
