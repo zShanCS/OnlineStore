@@ -1,4 +1,5 @@
-
+//this class saves reciepts for later use
+//the magical thing about this is that it saves reciepts just as you would expect in real life printed recipts but also more than that
 package assisgnment1;
 import java.io.Serializable;
 import java.util.HashMap;
