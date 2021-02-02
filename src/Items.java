@@ -3,7 +3,7 @@ import java.io.Serializable;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
-
+//holds all items data 
 public class Items implements Serializable{
   private  String ID;
     private String Name;
